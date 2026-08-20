@@ -58,7 +58,7 @@ Now I'm layering in cloud, DevOps, and data science fundamentals to round it out
   and system testing on a web-based Wi-Fi authentication and analytics platform.
 
 Full write-ups, tech stacks, and status of each project are on my
-[portfolio site](https://YOUR-GITHUB-USERNAME.github.io/portfolio/).
+[portfolio site](https://christianabad-dev.github.io/portfolio/).
 
 ### 🎓 Certifications
 
